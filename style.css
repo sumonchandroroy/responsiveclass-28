@@ -1,0 +1,117 @@
+.text-form {
+	padding: 173px;
+}
+
+.min-bg{
+	background-color: #F1F2FC;
+}
+img{
+	max-width: 100%;
+	display: inline-block;
+
+}
+.bnt-now{
+    display: inline-block;
+    background-color: #8490FF;
+    padding: 7px 10px;
+    color: #fff;
+    border-radius: 10px;
+}
+.container-fluid{
+    background-color: #F9F9FF;
+}
+.about{
+    padding: 100px;
+}
+.happy{
+ 
+}
+.happy-progete{
+	background-color:#8490FF;
+}
+
+.searcal h2 {
+	height: 10px;
+	height: 56px;
+	background-color: #ddd;
+	border-radius: 50%;
+	width: 56px;
+	text-align: center;
+	display: inline-block;
+}
+
+.card-group-item {
+	height: 70px;
+	width: 70px;
+	background: #F9F9FF;
+	border-radius: 50%;
+	text-align: center;
+	display: inline-block;
+	margin: auto;
+	line-height: 65px;
+	margin-top: 10px;
+}
+.card{
+	border: none;
+
+}
+.card-title {
+	margin-top: -26px;
+}
+
+.box-shadu {
+	box-shadow: -3px 11px 55px -18px;
+}
+.img-section {
+	height: 94px;
+	margin-top: -26px;
+	margin-left: 10px;
+}
+.programmer {
+	margin-top: -8px;
+}
+.jasan-doe{
+	box-sizing: border-box;
+}
+.email-weith {
+	margin-left: -35px;
+}
+
+.btn-button{
+	background-color: #17A2B8;
+	
+}
+.batas{
+
+}
+.batas h3{}
+.batas h5{}
+
+@media (max-width:992px) {
+    .text-form {
+        padding: 83px;
+    }
+    .img-thumbnail { 
+        max-width: 83%;
+      
+    }
+    .about {
+        padding: 20px;
+    }
+    .box-shadu { 
+        margin-bottom: 43px;
+    }
+
+    
+}
+@media (max-width:992px){
+    .email-weith {
+        margin-left: -7px;
+    }
+    .batas {
+        width: 389px;
+    
+        margin-left: 60px;
+        margin-right: 0;
+    }
+}
